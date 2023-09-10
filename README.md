@@ -1,4 +1,4 @@
-# Horiseon Social Soluction Services
+# Horiseon Social Solution Services
 
 ## Description
 
